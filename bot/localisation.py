@@ -59,7 +59,7 @@ class Localisation:
     
     HELP_MESSAGE = get_config(
         "STRINGS_HELP_MESSAGE",
-        "By now you must have known what I do. Let me tell you the commands. \n\n1. Send me a telegram file which you want to compress (either Forward or upload it.) \n2. Reply the file - /compress And Persentage \nEg:- <code>/compress 75</code> \n\n With this command, a 1000MB File Will be converted into 750MB.  \n\n  If you still need help, contact me @FireBreather_1"
+        "By now you must have known what I do. Let me tell you the commands. \n\n1. Send me a telegram file which you want to compress (either Forward or upload it.) \n2. Reply the file - /compress And Percentage \nEg:- <code>/compress 75</code> \n\n With this command, a 1000MB File Will be converted into 750MB.  \n\n  If you still need help, contact me @FireBreather_1"
     )
     WRONG_MESSAGE = get_config(
         "STRINGS_WRONG_MESSAGE",
